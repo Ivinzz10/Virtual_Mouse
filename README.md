@@ -24,13 +24,13 @@ A Python-based AI-powered virtual mouse that uses real-time hand gesture recogni
 
 | Gesture | Action |
 |--------|--------|
-| ✌️ (Index + Middle finger open) | Mouse movement |
-| ☝️ (Index finger folded) | Left click |
-| 🤞 (Middle finger folded) | Right click |
-| 🤙 (Index + Middle folded) | Double click |
-| 🖐️ (All fingers extended) | Scroll up |
-| 🤘 (Ring finger folded) | Scroll down |
-| 🤟 (Ring + Pinky extended, thumb near index) | Screenshot |
+|  (Index + Middle finger open) | Mouse movement |
+|  (Index finger folded) | Left click |
+|  (Middle finger folded) | Right click |
+|  (Index + Middle folded) | Double click |
+|  (All fingers extended) | Scroll up |
+|  (Ring finger folded) | Scroll down |
+|  (Ring + Pinky extended, thumb near index) | Screenshot |
 
 ## 🖥️ How it Works
 
