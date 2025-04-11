@@ -20,7 +20,7 @@ A Python-based AI-powered virtual mouse that uses real-time hand gesture recogni
 - Pynput – for more control over mouse actions
 - Tkinter – for GUI interface
 
-## 📸 Gestures Implemented
+## Gestures Implemented
 
 | Gesture | Action |
 |--------|--------|
@@ -32,7 +32,7 @@ A Python-based AI-powered virtual mouse that uses real-time hand gesture recogni
 |  (Ring finger folded) | Scroll down |
 |  (Ring + Pinky extended, thumb near index) | Screenshot |
 
-## 🖥️ How it Works
+## How it Works
 
 1. Uses webcam input to capture hand position.
 2. Detects hand landmarks using MediaPipe.
